@@ -1,5 +1,5 @@
 # newer versions go on top
-- version: "1.26.0"
+- version: "1.26.0-rc1"
   changes:
     - description: Add custom configuration support for stubstatus data stream.
       type: enhancement
